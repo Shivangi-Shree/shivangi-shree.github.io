@@ -1,0 +1,54 @@
+<footer class="site-footer h-card">
+    <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+    <div class="wrapper">
+        <!-- <h2 class="footer-heading">{{ site.title | escape }}</h2> -->
+
+        <div class="footer-col-wrapper">
+            <div class="footer-col footer-col-1">
+                <ul class="contact-list">
+                    <li class="p-name">
+                        {% if site.author %}
+                        {{ site.author | escape }}
+                        {% else %}
+                        {{ site.title | escape }}
+                        {% endif %}
+                    </li>
+                    {% if site.email %}
+                    <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+                    {% endif %}
+                </ul>
+            </div>
+
+            <div class="footer-col footer-col-2">
+                {% include social.html %}
+            </div>
+
+            <div class="footer-col footer-col-3">
+                <p>{{ site.description | escape }}</p>
+            </div>
+        </div>
+
+        <!-- StatCounter Unique Visitor Counter -->
+        <div style="margin-top: 20px;">
+            <script type="text/javascript">var sc_project = 13087369;
+                var sc_invisible = 0;  // 0 means the counter is visible
+                var sc_security = "4186899d";
+                var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+                document.write("<script type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'><\/script>");</script>
+
+            <noscript>
+                <div class="statcounter">
+                    <a title="Web Analytics" href="https://statcounter.com/" target="_blank">
+                        <img class="statcounter"
+                             src="https://c.statcounter.com/13087369/0/4186899d/0/"
+                             alt="Unique Visitor Count"
+                             referrerpolicy="no-referrer-when-downgrade">
+                    </a>
+                </div>
+            </noscript>
+        </div>
+        <!-- End of StatCounter Code -->
+
+    </div>
+</footer>
