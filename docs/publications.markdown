@@ -51,17 +51,20 @@ weight: 3
 <ol reversed style="line-height: 1.5; text-align: justify;">
     <li style="margin-bottom: 20px;">
         <div><em>Triply-Resonant Sum Frequency Conversion with Gallium Phosphide Ring Resonators</em></div>
-        <div>A. D. Logan, S. Shree, S. Chakaravarthi, N. Yama, C. Pederson, K. Hestroffer, F. Hatami, Kai-Mei C. Fu <div>
+        <div>A. D. Logan </strong> S. Shree, S. Chakaravarthi, N. Yama, C. Pederson, K. Hestroffer, F. Hatami, Kai-Mei C. Fu <div>
         <div><a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-2-1516&id=524794" target="_blank" class="publication-link">
                 Optics Express, 31,2,1516-1531(2023).
             </a>
         </div>
     
     <li style="margin-bottom: 20px;">
-        <div><em>Maximum speed of dissipation</em></div>
-        <div><strong>Swetamber Das</strong> and Jason R. Green (2024)</div>
-        <div><a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.L052104" target="_blank" class="publication-link">Phys. Rev. E (Letter) 109, L052104.</a></div>
-    </li>
+        <div><em>Exciton spectroscopy and diffusion in MoSe2-WSe2 lateral heterostructures
+encapsulatedin hexagonalboronnitride</em></div>
+        <div><strong>D. Beret, I. Paradisanos, Z. Gan, E. N. dehaghani, A. George, T. Lehnert, J. Biskupek, </strong> S. Shree, A. Estrada-Real,
+D. Lagarde, J. Poumirol, V. Paillard, K. Watanabe, T. Taniguchi, X. Marie, U. Kaiser, P. Renucci, L. Lombez, A. Turchanin, B. Urbaszek</div>
+        <div><a href="https://www.nature.com/articles/s41699-022-00354-0" target="_blank" class="publication-link">
+        npj2D MaterialsandApplications,6, 84 (2022)</a></div>
+    
     <li style="margin-bottom: 20px;">
         <div><em>Observing the dynamics of an electrochemically driven active material with liquid electron microscopy</em></div>
         <div>Wyeth S. Gibson, Justin T. Mulvey, <strong>Swetamber Das</strong>, Serxho Selmani, Jovany G. Merham, Alex Rakowski, Eric Schwartz, Allon I. Hochbaum, Zhibin Guan, Jason R. Green, and Joseph P. Patterson (2024)</div>
