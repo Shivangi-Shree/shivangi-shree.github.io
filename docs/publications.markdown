@@ -45,18 +45,7 @@ weight: 3
 }
 </style>
 
-<h3>In Review</h3>
-<ol reversed style="line-height: 1.5; text-align: justify;">
-    <li style="margin-bottom: 20px; line-height: 1.5;">
-        <div><em>Phase space contraction rate for classical mixed states</em></div>
-        <div>Mohamed Sahbani, <strong>Swetamber Das</strong>, and Jason R. Green (2025)</div>
-        <div>
-            <a href="https://arxiv.org/abs/2502.09361" target="_blank" class="publication-link">
-                Preprint available now on arXiv.
-            </a>
-        </div>
-    </li>
-</ol>
+
 
 <h3>Published/Accepted</h3>
 <ol reversed style="line-height: 1.5; text-align: justify;">
@@ -67,7 +56,7 @@ weight: 3
                 Optics Express, 31,2,1516-1531(2023).
             </a>
         </div>
-    </li>
+    
     <li style="margin-bottom: 20px;">
         <div><em>Maximum speed of dissipation</em></div>
         <div><strong>Swetamber Das</strong> and Jason R. Green (2024)</div>
