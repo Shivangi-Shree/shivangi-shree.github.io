@@ -61,11 +61,10 @@ weight: 3
 <h3>Published/Accepted</h3>
 <ol reversed style="line-height: 1.5; text-align: justify;">
     <li style="margin-bottom: 20px;">
-        <div><em>Spectral bounds on Lyapunov exponents and entropy production in differentiable dynamical systems</em></div>
-        <div><strong>Swetamber Das</strong> and Jason R. Green (2025)</div>
-        <div>
-            <a href="https://iopscience.iop.org/article/10.1088/1751-8121/ad8f06" target="_blank" class="publication-link">
-                J. Phys. A: Math. Theor. 2025 58(3) 035003.
+        <div><em>Triply-Resonant Sum Frequency Conversion with Gallium Phosphide Ring Resonators</em></div>
+        <div>A. D. Logan, S. Shree, S. Chakaravarthi, N. Yama, C. Pederson, K. Hestroffer, F. Hatami, Kai-Mei C. Fu <div>
+        <div><a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-2-1516&id=524794" target="_blank" class="publication-link">
+                Optics Express, 31,2,1516-1531(2023).
             </a>
         </div>
     </li>
