@@ -5,42 +5,6 @@ permalink: /publications/
 weight: 3
 ---
 
-<style>
-.scholar-button {
-    display: flex;
-    align-items: center;
-    background-color: #f2f2f2; 
-    color: black;
-    padding: 10px 15px;
-    text-decoration: none;
-    border-radius: 5px;
-    font-weight: bold;
-    font-size: 20px; /* Bigger text */
-    gap: 10px; /* Space between text and icon */
-    width: fit-content;
-}
-.scholar-text {
-    font-size: 20px; /* Adjust text size */
-}
-.scholar-icon {
-    width: 35px; /* Smaller icon */
-    height: auto;
-}
-.scholar-button:hover {
-    background-color: #ffcccc;
-}
-
-/* Style for publication links */
-.publication-link {
-    color: #395dd6;
-    text-decoration: none;
-}
-.publication-link:hover {
-    text-decoration: underline;
-}
-
-/* Increase spacing between list items */
-ol {
     list-style-type: none; /* Remove default numbering */
     counter-reset: item; /* Initialize counter */
     padding-left: 0; /* Remove default padding */
@@ -67,7 +31,7 @@ ol li::before {
 <h3>Published</h3>
 <ol reversed style="line-height: 1.5; text-align: justify;">
     <li>
-        A. D. Logan, S. Shree, S. Chakaravarthi, N. Yama, C. Pederson, K. Hestroffer, F. Hatami, Kai-Mei C. Fu, "Triply-Resonant Sum Frequency Conversion with Gallium Phosphide Ring Resonators", <i>Optics Express</i>, 31, 2, 1516-1531 (2023). DOI: <a href="https://doi.org/10.1364/OE.xxxxxxx" class="publication-link" target="_blank" rel="noopener noreferrer">10.1364/OE.xxxxxxx</a>.
+        A. D. Logan, S. Shree, S. Chakaravarthi, N. Yama, C. Pederson, K. Hestroffer, F. Hatami, Kai-Mei C. Fu, "Triply-Resonant Sum Frequency Conversion with Gallium Phosphide Ring Resonators", <i>Optics Express</i>, 31, 2, 1516-1531 (2023). DOI: <a href="https://doi.org/10.1364/OE.xxxxxxx" class="publication-link" target="_blank">10.1364/OE.xxxxxxx</a>.
     </li>
     <li>
         D. Beret, I. Paradisanos, Z. Gan, E. N. dehaghani, A. George, T. Lehnert, J. Biskupek, S. Shree, A. Estrada-Real, D. Lagarde, J. Poumirol, V. Paillard, K. Watanabe, T. Taniguchi, X. Marie, U. Kaiser, P. Renucci, L. Lombez, A. Turchanin, B. Urbaszek, "Exciton spectroscopy and diffusion in MoSe2-WSe2 lateral heterostructures encapsulated in hexagonal boron nitride", <i>npj 2D Materials and Applications</i>, 6, 84 (2022). DOI: <a href="https://doi.org/10.1038/s41699-022-00346-1" class="publication-link" target="_blank" rel="noopener noreferrer">10.1038/s41699-022-00346-1</a>.
