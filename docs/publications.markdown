@@ -3,8 +3,7 @@ layout: page
 title: "Publications"
 permalink: /publications/
 weight: 3
----
-
+---    
 <style>
 .scholar-button {
     display: flex;
@@ -44,20 +43,24 @@ ol {
     list-style-type: none; /* Remove default numbering */
     counter-reset: item; /* Initialize counter */
     padding-left: 0; /* Remove default padding */
+    margin-left: 0; /* Remove any extra margin */
 }
 ol li {
     counter-increment: item; /* Increment counter */
     margin-bottom: 30px; /* Add spacing between items */
-    display: flex;
-    align-items: baseline;
+    display: block; /* Ensures the content is in block format */
+    text-align: justify; /* Justifies the text */
+    line-height: 1.6; /* Adjust line height for better readability */
 }
 ol li::before {
     content: counter(item) "."; /* Add custom numbering */
     font-weight: bold;
     margin-right: 10px; /* Space between number and text */
     min-width: 30px; /* Ensure consistent spacing */
+    vertical-align: top; /* Align the numbering with the text */
 }
 </style>
+
 
 <a href="https://scholar.google.com/citations?user=j_a2xKAAAAAJ&hl=en" target="_blank" rel="noopener noreferrer" class="scholar-button">
     <span class="scholar-text">Google Scholar</span>
