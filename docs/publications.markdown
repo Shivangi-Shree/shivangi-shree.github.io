@@ -48,81 +48,54 @@ weight: 3
 
 
 <h3>Published/Accepted</h3>
-<ol reversed style="line-height: 1.5; text-align: justify;">
-    <li style="margin-bottom: 20px;">
-        <div><em>Triply-Resonant Sum Frequency Conversion with Gallium Phosphide Ring Resonators</em></div>
-        <div>A. D. Logan </strong> S. Shree, S. Chakaravarthi, N. Yama, C. Pederson, K. Hestroffer, F. Hatami, Kai-Mei C. Fu <div>
-        <div><a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-2-1516&id=524794" target="_blank" class="publication-link">
-                Optics Express, 31,2,1516-1531(2023).
-            </a>
-        </div>
-    
-    <li style="margin-bottom: 20px;">
-        <div><em>Exciton spectroscopy and diffusion in MoSe2-WSe2 lateral heterostructures
-encapsulatedin hexagonalboronnitride</em></div>
-        <div><strong>D. Beret, I. Paradisanos, Z. Gan, E. N. dehaghani, A. George, T. Lehnert, J. Biskupek, </strong> S. Shree, A. Estrada-Real,
-D. Lagarde, J. Poumirol, V. Paillard, K. Watanabe, T. Taniguchi, X. Marie, U. Kaiser, P. Renucci, L. Lombez, A. Turchanin, B. Urbaszek</div>
-        <div><a href="https://www.nature.com/articles/s41699-022-00354-0" target="_blank" class="publication-link">
-        npj2D MaterialsandApplications,6, 84 (2022)</a></div>
-    
-    <li style="margin-bottom: 20px;">
-        <div><em>Observing the dynamics of an electrochemically driven active material with liquid electron microscopy</em></div>
-        <div>Wyeth S. Gibson, Justin T. Mulvey, <strong>Swetamber Das</strong>, Serxho Selmani, Jovany G. Merham, Alex Rakowski, Eric Schwartz, Allon I. Hochbaum, Zhibin Guan, Jason R. Green, and Joseph P. Patterson (2024)</div>
-        <div><a href="https://pubs.acs.org/doi/full/10.1021/acsnano.4c01524" target="_blank" class="publication-link">ACS Nano 18 (18), 11898–11909.</a> (<em>theory support</em>)</div>
-    </li>
-    <li style="margin-bottom: 20px;">
-        <div><em>Classical Fisher information for differentiable dynamical systems</em></div>
-        <div>Mohamed Sahbani, <strong>Swetamber Das</strong>, and Jason R. Green (2023)</div>
-        <div><a href="https://pubs.aip.org/aip/cha/article/33/10/103139/2918637/Classical-Fisher-information-for-differentiable" target="_blank" class="publication-link">Chaos 33, 103139.</a> <em>Featured Article.</em></div>
-    </li>
-    <li style="margin-bottom: 20px;">
-        <div><em>Speed limits on deterministic chaos and dissipation</em></div>
-        <div><strong>Swetamber Das</strong> and Jason R. Green (2023)</div>
-        <div><a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.L012016" target="_blank" class="publication-link">Phys. Rev. Res. (Letter) 5(1):L012016.</a></div>
-    </li>
-    <li style="margin-bottom: 20px;">
-        <div><em>Density matrix formulation of dynamical systems</em></div>
-        <div><strong>Swetamber Das</strong> and Jason R. Green (2022)</div>
-        <div><a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.054135" target="_blank" class="publication-link">Phys. Rev. E 106, 054135.</a></div>
-    </li>
-    <li style="margin-bottom: 20px;">
-        <div><em>Tunability enhancement of gene regulatory motifs through competition for regulatory protein resources</em></div>
-        <div><strong>Swetamber Das</strong> and Sandeep Choubey (2020)</div>
-        <div><a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.102.052410" target="_blank" class="publication-link">Phys. Rev. E 102, 052410.</a></div>
-    </li>
-    <li style="margin-bottom: 20px;">
-        <div><em>Power-law trapping in the volume-preserving Arnold-Beltrami-Childress Map</em></div>
-        <div><strong>Swetamber Das</strong> and Arnd Bäcker (2020)</div>
-        <div><a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.032201" target="_blank" class="publication-link">Phys. Rev. E 101, 032201.</a></div>
-    </li>
-    <li style="margin-bottom: 20px;">
-        <div><em>Controlling synchronization in coupled area-preserving maps using stickiness</em></div>
-        <div><strong>Swetamber Das</strong> (2019)</div>
-        <div><a href="https://arxiv.org/abs/1810.01364" target="_blank" class="publication-link">Accepted in AIP Advances.</a></div>
-    </li>
-    <li style="margin-bottom: 20px;">
-        <div><em>Transport, diffusion, and energy studies in the Arnold-Beltrami-Childress map</em></div>
-        <div><strong>Swetamber Das</strong> and Neelima Gupte (2017)</div>
-        <div><a href="https://doi.org/10.1103/PhysRevE.96.032210" target="_blank" class="publication-link">Phys. Rev. E 96, 032210.</a></div>
-    </li>
-    <li style="margin-bottom: 20px;">
-        <div><em>Synchronization, phase slips and coherent structures in area-preserving maps</em></div>
-        <div><strong>Swetamber Das</strong>, Sasibhusan Mahata, and Neelima Gupte (2017)</div>
-        <div><a href="https://www.ias.ac.in/describe/article/conf/001/01/0205-0212" target="_blank" class="publication-link">Indian Academy of Sciences Conference Series 1, 205-212.</a></div>
-    </li>
-    <li style="margin-bottom: 20px;">
-        <div><em>Synchronization in area-preserving maps: Effects of mixed phase space and coherent structures</em></div>
-        <div>Sasibhushan Mahata, <strong>Swetamber Das</strong>, and Neelima Gupte (2016)</div>
-        <div><a href="https://doi.org/10.1103/PhysRevE.93.062212">Phys. Rev. E 93, 062212.</a></div>
-    </li>
-    <li style="margin-bottom: 20px;">
-        <div><em>Dynamics of impurities in three-dimensional-volume preserving map</em></div>
-        <div><strong>Swetamber Das</strong> and Neelima Gupte (2014)</div>
-        <div><a href="https://doi.org/10.1103/PhysRevE.90.012906">Phys. Rev. E 90, 012906.</a></div>
-    </li>
-    <li style="margin-bottom: 20px;">
-        <div><em>On an Asymptotic Case of the Complex Lorenz Model</em></div>
-        <div><strong>Swetamber Das</strong> (2010)</div>
-        <div> Proceedings of International Conference on Applied Physics & Mathematics, Kuala Lumpur, Malaysia (May 7–10, 2010), 579-583. </div>
-        <div><a href="https://ieeexplore.ieee.org/document/5489582">Published by IEEE</a></div>
-    </li>
+    <ol>
+        <li>
+            A. D. Logan, S. Shree, S. Chakaravarthi, N. Yama, C. Pederson, K. Hestroffer, F. Hatami, Kai-Mei C. Fu, "Triply-Resonant Sum Frequency Conversion with Gallium Phosphide Ring Resonators", <i>Optics Express</i>, 31, 2, 1516-1531 (2023). DOI: <a href="https://doi.org/10.1364/OE.xxxxxxx">10.1364/OE.xxxxxxx</a>.
+        </li>
+        <li>
+            D. Beret, I. Paradisanos, Z. Gan, E. N. dehaghani, A. George, T. Lehnert, J. Biskupek, S. Shree, A. Estrada-Real, D. Lagarde, J. Poumirol, V. Paillard, K. Watanabe, T. Taniguchi, X. Marie, U. Kaiser, P. Renucci, L. Lombez, A. Turchanin, B. Urbaszek, "Exciton spectroscopy and diffusion in MoSe2-WSe2 lateral heterostructures encapsulated in hexagonal boron nitride", <i>npj 2D Materials and Applications</i>, 6, 84 (2022). DOI: <a href="https://doi.org/10.1038/s41699-022-00346-1">10.1038/s41699-022-00346-1</a>.
+        </li>
+        <li>
+            L. Thiel, A. D. Logan, S. Chakravarthi, S. Shree, K. Hestroffer, F. Hatami, K.M. C. Fu, "Precise electron beam-based target-wavelength trimming for frequency conversion in integrated photonic resonators", <i>Optics Express</i>, 30, 5, 6921 (2022). DOI: <a href="https://doi.org/10.1364/OE.xxxxxxx">10.1364/OE.xxxxxxx</a>.
+        </li>
+        <li>
+            L. Sponfeldner, N. Leisgang, S. Shree, I. Paradisanos, K. Watanabe, T. Taniguchi, C. Robert, D. Lagarde, A. Balocchi, X. Marie, I. C. Gerber, B. Urbaszek, R. J. Warburton, "Capacitively and inductively coupled excitons in bilayer MoS2", <i>Physical Review Letters</i>, 129, 107401 (2022). DOI: <a href="https://doi.org/10.1103/PhysRevLett.129.107401">10.1103/PhysRevLett.129.107401</a>.
+        </li>
+        <li>
+            S. Shree, D. Lagarde, L. Lombez, C. Robert, A. Balocchi, K. Watanabe, T. Taniguchi, X. Marie, I. C. Gerber, M. M. Glazov, L. E. Golub, B. Urbaszek, I. Paradisanos, "Interlayer exciton mediated second harmonic generation in bilayer MoS2", <i>Nature Communications</i>, 12, 6894 (2021). DOI: <a href="https://doi.org/10.1038/s41467-021-27220-9">10.1038/s41467-021-27220-9</a>.
+        </li>
+        <li>
+            A. P. Frauendorf, A. Niebur, L. Harms, S. Shree, B. Urbaszek, M. Oestreich, J. Hübner, and J. Lauth, "Room temperature micro-photoluminescence studies of colloidal WS2 nanosheets", <i>Journal of Physical Chemistry C</i>, 125, 18841–18848 (2021). DOI: <a href="https://doi.org/10.1021/acs.jpcc.1c05812">10.1021/acs.jpcc.1c05812</a>.
+        </li>
+        <li>
+            J. Poumirol, I. Paradisanos, S. Shree, G. Agez, X. Marie, C. Robert, N. Mallet, P. R. Wiecha, G. Larrieu, V. Larrey, F. Fournel, K. Watanabe, T. Taniguchi, Au. Cuche, V. Paillard, B. Urbaszek, "Unveiling the optical emission channels of monolayer semiconductors coupled to silicon nanoantennas", <i>ACS Photonics</i>, 7, 3106–3115 (2020). DOI: <a href="https://doi.org/10.1021/acsphotonics.0c01052">10.1021/acsphotonics.0c01052</a>.
+        </li>
+        <li>
+            S. Shree, I. Paradisanos, X. Marie, C. Robert, and B. Urbaszek, "Guide to optical spectroscopy of layered semiconductors", <i>Nature Review Physics</i>, 3, 39–54 (2020). DOI: <a href="https://doi.org/10.1038/s42254-020-00259-1">10.1038/s42254-020-00259-1</a>.
+        </li>
+        <li>
+            N. Leisgang*, S. Shree*, I. Paradisanos*, L. Sponfeldner*, C. Robert, D. Lagarde, A. Balocchi, K. Watanabe, T. Taniguchi, X. Marie, R. J. Warburton, I. C. Gerber, and B. Urbaszek, "Giant Stark splitting of an exciton in bilayer MoS2", <i>Nature Nanotechnology</i>, 15, 901–907 (2020), *joint first author. DOI: <a href="https://doi.org/10.1038/s41565-020-0750-3">10.1038/s41565-020-0750-3</a>.
+        </li>
+        <li>
+            I. Paradisanos*, S. Shree*, A. George, N. Leisgang, C. Robert, K. Watanabe, T. Taniguchi, R. J. Warburton, A. Turchanin, X. Marie, I. C. Gerber and B. Urbaszek, "Controlling interlayer excitons in MoS2 layers grown by chemical vapor deposition", <i>Nature Communications</i>, 11, 2391 (2020), *joint first author. DOI: <a href="https://doi.org/10.1038/s41467-020-16315-4">10.1038/s41467-020-16315-4</a>.
+        </li>
+        <li>
+            S. Shree, A. George, T. Lehnert, C. Neumann, M. Benelajla, C. Robert, X. Marie, K. Watanabe, T. Taniguchi, U. Kaiser, B. Urbaszek and A. Turchanin, "High optical quality of MoS2 monolayers grown by chemical vapor deposition", <i>2D Materials</i>, 7, 015011 (2019). DOI: <a href="https://doi.org/10.1088/2053-1583/ab5f5f">10.1088/2053-1583/ab5f5f</a>.
+        </li>
+        <li>
+            M. Goryca, J. Li, A. V. Stier, T. Taniguchi, K. Watanabe, E. Courtade, S. Shree, C. Robert, B. Urbaszek, X. Marie and S. A. Crooker, "Revealing exciton masses and dielectric properties of monolayer semiconductors with high magnetic fields", <i>Nature Communications</i>, 10, 4172 (2019). DOI: <a href="https://doi.org/10.1038/s41467-019-12180-y">10.1038/s41467-019-12180-y</a>.
+        </li>
+        <li>
+            I. C. Gerber, E. Courtade, S. Shree, C. Robert, T. Taniguchi, K. Watanabe, A. Balocchi, P. Renucci, D. Lagarde, X. Marie, and B. Urbaszek, "Interlayer excitons in bilayer MoS2 with strong oscillator strength up to room temperature", <i>Physical Review B</i>, 99, 035443 (2019). DOI: <a href="https://doi.org/10.1103/PhysRevB.99.035443">10.1103/PhysRevB.99.035443</a>.
+        </li>
+        <li>
+            S. Shree, M. Semina, C. Robert, B. Han, T. Amand, A. Balocchi, M. Manca, E. Courtade, X. Marie, T. Taniguchi, K. Watanabe, M. M. Glazov and B. Urbaszek, “Observation of exciton-phonon coupling in MoSe2 monolayers”, <i>Physical Review B</i>, 98, 035302 (2018). DOI: <a href="https://doi.org/10.1103/PhysRevB.98.035302">10.1103/PhysRevB.98.035302</a>.
+        </li>
+        <li>
+            B. Han, C. Robert, E. Courtade, M. Manca, S. Shree, T. Amand, P. Renucci, T. Taniguchi, K. Watanabe, X. Marie, L. E. Golub, M. M. Glazov, and B. Urbaszek, “Exciton states in monolayer MoSe2 and MoTe2 probed by upconversion spectroscopy", <i>Physical Review X</i>, 8, 031073 (2018). DOI: <a href="https://doi.org/10.1103/PhysRevX.8.031073">10.1103/PhysRevX.8.031073</a>.
+        </li>
+        <li>
+            M. Manca, G. Wang, T. Kuroda, S. Shree, A. Balocchi, P. Renucci, X. Marie, M. V. Durnev, M. M. Glazov, K. Sakoda, T. Mano, T. Amand, and B. Urbaszek, “Electrically tunable dynamic nuclear spin polarization in GaAs quantum dots at zero magnetic field", <i>Applied Physics Letters</i>, 112, 142103 (2018). DOI: <a href="https://doi.org/10.1063/1.5026521">10.1063/1.5026521</a>.
+        </li>
+    </ol>
+
