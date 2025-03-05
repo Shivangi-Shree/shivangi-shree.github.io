@@ -68,7 +68,7 @@ ol li::before {
 </a>
 
 <h3>Published</h3>
-<ol reversed>
+<ol reversed style="line-height: 1.5; text-align: justify;">
     <li>
         A. D. Logan, S. Shree, S. Chakaravarthi, N. Yama, C. Pederson, K. Hestroffer, F. Hatami, Kai-Mei C. Fu, "Triply-Resonant Sum Frequency Conversion with Gallium Phosphide Ring Resonators", <i>Optics Express</i>, 31, 2, 1516-1531 (2023). DOI: <a href="https://doi.org/10.1364/OE.xxxxxxx" class="publication-link">10.1364/OE.xxxxxxx</a>.
     </li>
