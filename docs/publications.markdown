@@ -38,15 +38,34 @@ weight: 3
 .publication-link:hover {
     text-decoration: underline;
 }
+
+/* Increase spacing between list items */
+ol {
+    list-style-type: none; /* Remove default numbering */
+    counter-reset: item; /* Initialize counter */
+    padding-left: 0; /* Remove default padding */
+}
+ol li {
+    counter-increment: item; /* Increment counter */
+    margin-bottom: 20px; /* Add spacing between items */
+    display: flex;
+    align-items: baseline;
+}
+ol li::before {
+    content: counter(item) "."; /* Add custom numbering */
+    font-weight: bold;
+    margin-right: 10px; /* Space between number and text */
+    min-width: 30px; /* Ensure consistent spacing */
+}
 </style>
 
-<a href="https://scholar.google.com/citations?user=Sb41nz4AAAAJ&view_op=list_works&sortby=pubdate" target="_blank" rel="noopener noreferrer" class="scholar-button">
+<a href="https://scholar.google.com/citations?hl=en&user=j_a2xKAAAAAJ" target="_blank" rel="noopener noreferrer" class="scholar-button">
     <span class="scholar-text">Google Scholar</span>
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar Logo" class="scholar-icon">
 </a>
 
 <h3>Published/Accepted</h3>
-<ol>
+<ol reversed>
     <li>
         A. D. Logan, S. Shree, S. Chakaravarthi, N. Yama, C. Pederson, K. Hestroffer, F. Hatami, Kai-Mei C. Fu, "Triply-Resonant Sum Frequency Conversion with Gallium Phosphide Ring Resonators", <i>Optics Express</i>, 31, 2, 1516-1531 (2023). DOI: <a href="https://doi.org/10.1364/OE.xxxxxxx" class="publication-link">10.1364/OE.xxxxxxx</a>.
     </li>
