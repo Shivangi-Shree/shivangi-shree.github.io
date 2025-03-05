@@ -5,21 +5,38 @@ permalink: /publications/
 weight: 3
 ---
 
-    list-style-type: none; /* Remove default numbering */
-    counter-reset: item; /* Initialize counter */
-    padding-left: 0; /* Remove default padding */
-}
-ol li {
-    counter-increment: item; /* Increment counter */
-    margin-bottom: 30px; /* Increased spacing between items */
+<style>
+.scholar-button {
     display: flex;
-    align-items: baseline;
-}
-ol li::before {
-    content: counter(item) "."; /* Add custom numbering */
+    align-items: center;
+    background-color: #f2f2f2; 
+    color: black;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 5px;
     font-weight: bold;
-    margin-right: 10px; /* Space between number and text */
-    min-width: 30px; /* Ensure consistent spacing */
+    font-size: 20px; /* Bigger text */
+    gap: 10px; /* Space between text and icon */
+    width: fit-content;
+}
+.scholar-text {
+    font-size: 20px; /* Adjust text size */
+}
+.scholar-icon {
+    width: 35px; /* Smaller icon */
+    height: auto;
+}
+.scholar-button:hover {
+    background-color: #ffcccc;
+}
+
+/* Style for publication links */
+.publication-link {
+    color: #395dd6;
+    text-decoration: none;
+}
+.publication-link:hover {
+    text-decoration: underline;
 }
 </style>
 
