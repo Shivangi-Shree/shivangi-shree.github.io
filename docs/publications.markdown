@@ -47,7 +47,7 @@ ol {
 }
 ol li {
     counter-increment: item; /* Increment counter */
-    margin-bottom: 20px; /* Add spacing between items */
+    margin-bottom: 30px; /* Add spacing between items */
     display: flex;
     align-items: baseline;
 }
