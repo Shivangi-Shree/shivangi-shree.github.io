@@ -59,12 +59,12 @@ ol li::before {
 }
 </style>
 
-<a href="https://scholar.google.com/citations?hl=en&user=j_a2xKAAAAAJ" target="_blank" rel="noopener noreferrer" class="scholar-button">
+<a href="https://scholar.google.com/citations?user=j_a2xKAAAAAJ&hl=en" target="_blank" rel="noopener noreferrer" class="scholar-button">
     <span class="scholar-text">Google Scholar</span>
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar Logo" class="scholar-icon">
 </a>
 
-<h3>Published/Accepted</h3>
+<h3>Published</h3>
 <ol reversed>
     <li>
         A. D. Logan, S. Shree, S. Chakaravarthi, N. Yama, C. Pederson, K. Hestroffer, F. Hatami, Kai-Mei C. Fu, "Triply-Resonant Sum Frequency Conversion with Gallium Phosphide Ring Resonators", <i>Optics Express</i>, 31, 2, 1516-1531 (2023). DOI: <a href="https://doi.org/10.1364/OE.xxxxxxx" class="publication-link">10.1364/OE.xxxxxxx</a>.
