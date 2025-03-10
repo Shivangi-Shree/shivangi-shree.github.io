@@ -7,7 +7,7 @@ weight : 4
 
 <!-- Profile: Dr. Swetamber P. Das -->
 <div class="profile-container" style="display: flex; align-items: flex-start; gap: 20px; max-width: 800px; margin-bottom: 20px;">
-    <img src="{{ site.baseurl }}/images/Shivangi_Photo.png" alt="Profile Picture"
+    <img src="{{ site.baseurl }}/images/Shivangi_Photo.jpg" alt="Profile Picture"
          style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%; flex-shrink: 0;">
 
     <div class="profile-text" style="text-align: justify;">
