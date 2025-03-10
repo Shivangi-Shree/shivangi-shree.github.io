@@ -48,7 +48,7 @@ weight: 3
 <h3>Published</h3>
 <ol reversed style="line-height: 1.5; text-align: justify;">
     <li>
-        A. D. Logan, S. Shree, S. Chakaravarthi, N. Yama, C. Pederson, K. Hestroffer, F. Hatami, Kai-Mei C. Fu, "Triply-Resonant Sum Frequency Conversion with Gallium Phosphide Ring Resonators", <i>Optics Express</i>, 31, 2, 1516-1531 (2023). DOI: <a href="https://doi.org/10.1364/OE.xxxxxxx" class="publication-link" target="_blank">10.1364/OE.xxxxxxx</a>.
+        A. D. Logan, S. Shree, S. Chakaravarthi, N. Yama, C. Pederson, K. Hestroffer, F. Hatami, Kai-Mei C. Fu, "Triply-Resonant Sum Frequency Conversion with Gallium Phosphide Ring Resonators", <i>Optics Express</i>, 31, 2, 1516-1531 (2023). DOI: <a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-2-1516&id=524794" class="publication-link" target="_blank">10.1364/OE.xxxxxxx</a>.
     </li>
     <li>
         D. Beret, I. Paradisanos, Z. Gan, E. N. dehaghani, A. George, T. Lehnert, J. Biskupek, S. Shree, A. Estrada-Real, D. Lagarde, J. Poumirol, V. Paillard, K. Watanabe, T. Taniguchi, X. Marie, U. Kaiser, P. Renucci, L. Lombez, A. Turchanin, B. Urbaszek, "Exciton spectroscopy and diffusion in MoSe2-WSe2 lateral heterostructures encapsulated in hexagonal boron nitride", <i>npj 2D Materials and Applications</i>, 6, 84 (2022). DOI: <a href="https://doi.org/10.1038/s41699-022-00346-1" class="publication-link" target="_blank" rel="noopener noreferrer">10.1038/s41699-022-00346-1</a>.
