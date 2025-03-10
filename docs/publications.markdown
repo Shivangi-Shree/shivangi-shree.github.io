@@ -93,6 +93,6 @@ weight: 3
         B. Han, C. Robert, E. Courtade, M. Manca, S. Shree, T. Amand, P. Renucci, T. Taniguchi, K. Watanabe, X. Marie, L. E. Golub, M. M. Glazov, and B. Urbaszek, “Exciton states in monolayer MoSe2 and MoTe2 probed by upconversion spectroscopy", <i>Physical Review X</i>, 8, 031073 (2018). DOI: <a href="https://doi.org/10.1103/PhysRevX.8.031073" class="publication-link" target="_blank" rel="noopener noreferrer">10.1103/PhysRevX.8.031073</a>.
     </li>
     <li>
-        M. Manca, G. Wang, T. Kuroda, S. Shree, A. Balocchi, P. Renucci, X. Marie, M. V. Durnev, M. M. Glazov, K. Sakoda, T. Mano, T. Amand, and B. Urbaszek, “Electrically tunable dynamic nuclear spin polarization in GaAs quantum dots at zero magnetic field", <i>Applied Physics Letters</i>, 112, 142103 (2018). DOI: <a href="https://doi.org/10.1063/1.5026521" class="publication-link" target="_blank" rel="noopener noreferrer">10.1063/1.5026521</a>.
+        M. Manca, G. Wang, T. Kuroda, S. Shree, A. Balocchi, P. Renucci, X. Marie, M. V. Durnev, M. M. Glazov, K. Sakoda, T. Mano, T. Amand, and B. Urbaszek, “Electrically tunable dynamic nuclear spin polarization in GaAs quantum dots at zero magnetic field", <i>Applied Physics Letters</i>, 112, 142103 (2018). DOI: <a href="https://pubs.aip.org/aip/apl/article/112/14/142103/34972/Electrically-tunable-dynamic-nuclear-spin" class="publication-link" target="_blank" rel="noopener noreferrer">10.1063/1.5026521</a>.
     </li>
 </ol>
