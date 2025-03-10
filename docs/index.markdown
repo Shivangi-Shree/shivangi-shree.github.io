@@ -48,14 +48,7 @@ weight: 1
         <p style="font-size: 22px; font-weight: bold;">Group</p>
         <p>at <strong><a href="https://srmap.edu.in/"> SRM University - AP, Amaravati (India)</a></strong></p>
 
-        <p>Our research lies at the intersection of dynamical systems and non-equilibrium physics,
-        aiming to understand how physical systems interact with their environment.
-        These interactions give rise to emergent phenomena across various scales of length, time, and energy,
-        from the formation of self-assembly patterns in chemical reactions to the functioning of
-        biological cells essential for life. Our aim is to understand the dynamical mechanisms
-        of these processes in order to inform experiments toward
-        designing synthetic systems. To tackle these challenges, we leverage
-        a diverse set of analytical methods and computational tools.</p>
+        <p>Our new research group at IIT Patna is dedicated to exploring Integrated Quantum Systems. Our research focusing on 2D materials, semiconductor nanostructures, and hybrid interfaces, where quantum confinement effects play a crucial role in shaping electronic and optical properties. By leveraging these effects, we aim to achieve precise control over exciton dynamics, charge carrier behavior, and light-matter interactions for the deveopment of optoelectronics and quantum technologies. </p>
 
         <p><span style="color: #006600;"> We currently have bachelor's, master's, and PhD positions available. If interested, please reach out to discuss potential projects.</span></p>
 
