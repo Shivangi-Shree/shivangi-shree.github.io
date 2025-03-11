@@ -11,12 +11,7 @@ weight : 4
          style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%; flex-shrink: 0;">
 
     <div class="profile-text" style="text-align: justify;">
-        <strong>Dr. Swetamber P. Das</strong> has been serving as an Assistant Professor at SRM University - AP since July 2024.
-        He is a dynamical systems theorist with a recent focus on non-equilibrium physics.
-        He obtained his PhD under the guidance of Prof. Neelima M. Gupte at the Indian Institute of Technology Madras in March 2018.
-        He was a Visiting Scientist at the Max Planck Institute for the Physics of Complex Systems in Dresden, Germany,
-        from Oct. 2017 to Jan. 2020. Following this, he held the position of Research Assistant Professor at the University
-        of Massachusetts Boston, USA, from Sep. 2020 to May 2024.
+        <strong>Dr. Shivangi Shree</strong> has been an Assistant Professor at IIT Patna since June 2024. Her research focuses on the optical spectroscopy of hybrid systems. She earned her Ph.D. under the supervision of Prof. Bernhard Urbaszek at the Institut National des Sciences Appliquées de Toulouse (INSA Toulouse) in March 2020. Following her doctoral studies, she worked as a Postdoctoral Scholar at the University of Washington in Seattle, USA, and later as a Postdoctoral Fellow at Harvard University in Boston, USA.
     </div>
 </div>
 
