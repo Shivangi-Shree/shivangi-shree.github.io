@@ -12,12 +12,10 @@ weight: 5
 
         <p>Assistant Professor,<br>
         Department of Physics,<br>
-        IIT Patna,<br>
-        Main Road Bihta, Patna,<br>
-        Bihar, 801106,India.</p>
+        IIT Patna, Bihta,<br>
+        Patna, 801106, India.<br>
 
         <p><strong>Office:</strong> Room No 320, Block-IV <br>
-         Level 2, Cabin 3.</p>
         <p><strong>Email:</strong> <a href="mailto:sshree@iitp.ac.in">sshree@iitp.ac.in</a></p>
     </div>
 
