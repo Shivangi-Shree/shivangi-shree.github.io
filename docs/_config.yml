@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Dynamical System Theory Group"
-email: swetamber.p@srmap.edu.in
+title: "2D Optoelectronics Group"
+email: sshree@iitp.ac.in
 description: >-
- Department of Physics at SRM - AP (India)
+ Department of Physics at IIT Patna (India)
 baseurl: "/"  # Adjust based on your project's location
-url: "https://swetamberd.github.io" # Base URL for your site
+url: "https://shivangi-shree.github.io" # Base URL for your site
 twitter_username: Swetamber
-github_username:  SwetamberD
+github_username:  Shivangi-Shree
 
 # Build settings
 theme: minima
