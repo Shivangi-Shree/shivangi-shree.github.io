@@ -45,7 +45,7 @@ weight: 1
 <body>
     <div class="content">
         <p><img src="{{ site.baseurl }}/images/IIT_Patna_logo.png" alt="IIT Patna, Bihta" class="logo"></p>
-        <p style="font-size: 22px; font-weight: bold;">Group</p>
+        <p style="font-size: 22px; font-weight: bold;"> Qunatum Optoelectornics Group</p>
         <p>at <strong><a href="https://www.iitp.ac.in/"> Indian Institute of Technology Patna (India)</a></strong></p>
 
         <p> Our new research group at IIT Patna is dedicated to exploring Integrated Quantum Systems. Our research focusing on 2D materials, semiconductor nanostructures, and hybrid interfaces, where quantum confinement effects play a crucial role in shaping electronic and optical properties. By leveraging these effects, we aim to achieve precise control over exciton dynamics, charge carrier behavior, and light-matter interactions for the deveopment of optoelectronics and quantum technologies. </p>
