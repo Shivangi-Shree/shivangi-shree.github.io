@@ -48,7 +48,7 @@ weight: 1
         <p style="font-size: 22px; font-weight: bold;">Group</p>
         <p>at <strong><a href="https://srmap.edu.in/"> SRM University - AP, Amaravati (India)</a></strong></p>
 
-        <p>Our new research group at IIT Patna is dedicated to exploring Integrated Quantum Systems. Our research focusing on 2D materials, semiconductor nanostructures, and hybrid interfaces, where quantum confinement effects play a crucial role in shaping electronic and optical properties. By leveraging these effects, we aim to achieve precise control over exciton dynamics, charge carrier behavior, and light-matter interactions for the deveopment of optoelectronics and quantum technologies. </p>
+        <p> Our new research group at IIT Patna is dedicated to exploring Integrated Quantum Systems. Our research focusing on 2D materials, semiconductor nanostructures, and hybrid interfaces, where quantum confinement effects play a crucial role in shaping electronic and optical properties. By leveraging these effects, we aim to achieve precise control over exciton dynamics, charge carrier behavior, and light-matter interactions for the deveopment of optoelectronics and quantum technologies. </p>
 
 
         <div class="news-links">
@@ -56,21 +56,10 @@ weight: 1
 
             <div class="news-item" style="margin-top: 10px;">
                 <div style="display: flex; align-items: center; gap: 5px;">
-                    <div class="news-date">Feb. 13 </div>
+                    <div class="news-date">July 11 </div>
                     <div class="news-link">
-                        <a href="">
+                        
                             We currently have bachelor's, master's, and PhD positions available. If interested, please reach out to discuss potential projects.
-                        </a>
-                    </div>
-                </div>
-            </div>
-
-            <div class="news-item" style="margin-top: 10px;">
-                <div style="display: flex; align-items: center; gap: 5px;">
-                    <div class="news-date">Jan. 6 </div>
-                    <div class="news-link">
-                        <a href="https://iopscience.iop.org/article/10.1088/1751-8121/ad8f06/meta" target="_blank">
-                            Paper published in <em>J. Phys. A: Math. Theor.</em>
                         </a>
                     </div>
                 </div>
