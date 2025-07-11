@@ -50,7 +50,6 @@ weight: 1
 
         <p>Our new research group at IIT Patna is dedicated to exploring Integrated Quantum Systems. Our research focusing on 2D materials, semiconductor nanostructures, and hybrid interfaces, where quantum confinement effects play a crucial role in shaping electronic and optical properties. By leveraging these effects, we aim to achieve precise control over exciton dynamics, charge carrier behavior, and light-matter interactions for the deveopment of optoelectronics and quantum technologies. </p>
 
-        <p><span style="color: #006600;"> We currently have bachelor's, master's, and PhD positions available. If interested, please reach out to discuss potential projects.</span></p>
 
         <div class="news-links">
             <h2 style="color: #663300;">News</h2>
@@ -59,8 +58,8 @@ weight: 1
                 <div style="display: flex; align-items: center; gap: 5px;">
                     <div class="news-date">Feb. 13 </div>
                     <div class="news-link">
-                        <a href="https://arxiv.org/abs/2502.09361" target="_blank">
-                            New Preprint available
+                        <a href="">
+                            We currently have bachelor's, master's, and PhD positions available. If interested, please reach out to discuss potential projects.
                         </a>
                     </div>
                 </div>
